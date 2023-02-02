@@ -67,3 +67,4 @@ const loopAnimation = () => {
 //renders it everytime
 loopAnimation();
 console.log(Math.fround(1.5));
+console.log(Math.log(1.5));
