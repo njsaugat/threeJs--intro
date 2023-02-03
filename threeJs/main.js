@@ -68,3 +68,4 @@ const loopAnimation = () => {
 loopAnimation();
 console.log(Math.fround(1.5));
 console.log(Math.log(1.5));
+console.log(Math.log1p(1.5));
